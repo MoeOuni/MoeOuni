@@ -27,15 +27,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="40" alt="express logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://elysiajs.com/assets/elysia.svg" height="40" alt="elysiajs logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" height="40" alt="Flask logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" height="40" alt="MongoDb logo"  />
   <img width="12" />
