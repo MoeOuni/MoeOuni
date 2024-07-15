@@ -27,13 +27,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="40" alt="express logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://elysiajs.com/assets/elysia.svg" height="40" alt="elysiajs logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" height="40" alt="Flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" height="40" alt="MongoDb logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="40" alt="PostgreSQL logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" height="40" alt="mariaDB logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" height="40" alt="docker logo"  />
+
 </div>
 
 ###
