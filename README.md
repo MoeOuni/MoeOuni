@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating Web & Mobile apps since 2019<br>📚 I'm currently learning Cyber security as a plus for my carrier<br>🎯 Goals: to start my own start up</p>
+<p align="left">✨ Creating Web & Mobile apps since 2019<br>📚 I'm currently learning Cyber Security and System Administration as a plus for my carrier<br>🎯 Goals: to start my own start up</p>
 
 ###
 
