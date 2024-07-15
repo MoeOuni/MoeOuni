@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://elysiajs.com/assets/elysia.svg" height="40" alt="elysiajs logo"  />
   <img width="12" />
-  <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" height="40" alt="Python logo"  />
+  <img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg#/media/File:Python-logo-notext.svg" height="40" alt="Python logo"  />
 </div>
 
 ###
