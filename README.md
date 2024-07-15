@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.javascript.com/">
+  <a href="https://www.javascript.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   </a>
   <img width="12" />
