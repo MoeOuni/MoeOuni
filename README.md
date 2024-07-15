@@ -18,8 +18,8 @@
 
 ###
 
-<div align="left">
-  <a style="text-decoration: none;" href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
+<div align="left" style="text-decoration: none;">
+  <a  href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" alt="docker logo"  />
   </a>
   <img width="12" />
